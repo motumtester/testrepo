@@ -1,3 +1,6 @@
+import numpy
+import pylab
+
 def f(x):
     return 5*x+1
 
