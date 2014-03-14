@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Project_33
-Bundle-SymbolicName: Project_33
+Bundle-SymbolicName: Project_3
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: project_33.Activator
 Require-Bundle: org.eclipse.ui,
